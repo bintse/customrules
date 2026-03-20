@@ -1,0 +1,7 @@
+# === Cloudflare 必需资源（不能 REJECT）===
+# === 防止 anti-ad 误杀（必须在前）===
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflarestatic.com
