@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,ijia120.com
 DOMAIN,mw-sandbox-vpc.ijia120.com
 DOMAIN,rm-wz91cp0pjs6s1yud8.mysql.rds.aliyuncs.com
+DOMAIN,rm-wz9sx22vw2a15c6rw.mysql.rds.aliyuncs.com
 IP-CIDR,192.168.229.0/24,no-resolve
 IP-CIDR,192.168.32.0/24,no-resolve
 IP-CIDR,192.168.33.0/24,no-resolve
