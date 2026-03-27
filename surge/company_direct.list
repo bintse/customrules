@@ -1,4 +1,5 @@
 DOMAIN,gitlab.ijia120.com
+DOMAIN,zentao.ijia120.com
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
