@@ -3,10 +3,12 @@
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,grok
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
+DOMAIN,api.grok.com
 DOMAIN,api.together.xyz
 DOMAIN,bard.google.com
 DOMAIN,console.groq.com
@@ -46,6 +48,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
