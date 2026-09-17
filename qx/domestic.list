@@ -1,4 +1,4 @@
-host-suffix,weixin.qq.com,direct
-host-suffix,deepseek.com,direct
-host-suffix,cn,direct
-host-suffix,com.cn,direct
+host-suffix,weixin.qq.com
+host-suffix,deepseek.com
+host-suffix,cn
+host-suffix,com.cn
