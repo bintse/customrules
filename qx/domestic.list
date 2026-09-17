@@ -1,5 +1,12 @@
-host-suffix,quark.cn
-host-suffix,weixin.qq.com
-host-suffix,deepseek.com
+host-suffix, quark.cn
+host-suffix, weixin.qq.com
+host-suffix, deepseek.com
+host-suffix, doubao.com
+host-suffix, qianwen.com
+host-suffix, kimi.com
+host-suffix, minimax.com
+host-suffix, yi.com
+host-suffix, zhipu.ai
+host-suffix, baichuan-ai.com
 host-suffix,cn
 host-suffix,com.cn
